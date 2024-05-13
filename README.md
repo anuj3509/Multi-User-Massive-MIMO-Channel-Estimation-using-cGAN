@@ -13,4 +13,11 @@
 1. Run the file project_final.ipynb after generating data as described in Section 1.
 2. Make sure to change the variable **path** wherever required according to your google drive path where you stored the files on mounting.
 3. Feel free to tweak any parameters for increased accuracy.
-4. After each epoch you will see that the code will generate images with Input Y, Targeted and Predicted H along with an error value on the plot.
+4. After each epoch you will see that the code will generate images with Input Y, Targeted and Predicted H along with an error value on the plot. An example is displayed below.
+   
+![image](https://github.com/anuj3509/Multi-User-Massive-MIMO-Channel-Estimation-using-cGAN/assets/157984808/2f3972f1-5d2e-4183-a9a9-6517815fc64b)
+![image](https://github.com/anuj3509/Multi-User-Massive-MIMO-Channel-Estimation-using-cGAN/assets/157984808/212ce314-4a9a-4f62-aa8f-7f705a48d3a3)
+
+**Disclaimer**
+---------------------------------------------------------
+This project is an attempt to verify the fact cGAN based Channel Estimation approach works significantly better when compared to U-Net/CNN/MLP based deep learning models for Massive MIMO Channel Estimation in sub-6G bands as reported in some papers. There are already several papers on this topic.
