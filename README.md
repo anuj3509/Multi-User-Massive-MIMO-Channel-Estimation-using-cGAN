@@ -20,4 +20,4 @@
 
 **Disclaimer**
 ---------------------------------------------------------
-This project is an attempt to verify the fact cGAN based Channel Estimation approach works significantly better when compared to U-Net/CNN/MLP based deep learning models for Massive MIMO Channel Estimation in sub-6G bands as reported in some papers. There are already several papers on this topic.
+This project is an attempt to verify that cGAN based Channel Estimation approach works significantly better when compared to U-Net/ CNN/ MLP based deep learning models for Massive MIMO Channel Estimation in sub-6G bands as reported in some papers. There are already several papers on this topic. The results match closely as reported in earlier papers.
