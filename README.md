@@ -7,7 +7,7 @@
 4. Run the matlab function **"Data_Generation_matlab/GenerateData_Main.m"** to generate channel data and quantized signal data.
 5. Run the GenerateData_MainLoop.m file on your local machine.
 6. This will generate dataset at varying number of antennas (in this case, M = 64, 128, 192, 256, 512) each iterating over SNR values of [-10, -5, 0, 5, 10, 15, 20, 25, 30, 35, 40].
-7. I have created a sample datset for 64 base station anennas over SNR values = [-5, 0, 5, 10, 15, 20]. But the code has provision of generating more. Datasets other than these very significantly large to push. You can view it here: **"Data_Generation_matlab/Gan_Data/Gan_10_dBIndoor2p4_64ant_32users_8pilot.mat"**, which inculdes the channel data and quantized signal data.
+7. I have created a sample datset for 64 base station anennas over SNR values = [-5, 0, 5, 10, 15, 20]. But the code has provision of generating more. Datasets other than these were significantly large to push. You can view it here: **"Data_Generation_matlab/Gan_Data/Gan_10_dBIndoor2p4_64ant_32users_8pilot.mat"**, which inculdes the channel data and quantized signal data.
 
 # 2. Steps for Code Execution
 1. Run the file project_final.ipynb after generating data as described in Section 1.
