@@ -1,7 +1,7 @@
 # Multi-User Massive MIMO Channel Estimation using cGAN
 
 # 1. Steps to Generate Data
-1. Download "I1_2p4.zip" from this link: [https://drive.google.com/drive/folders/1rbIHfK__JUn5e52y5GWI7p-0cL5OSZUO?usp=sharing](https://drive.google.com/file/d/11yWSJ2D5YQ2NqwX6Pn4gxVaeUZH0Klum/view?usp=sharing).
+1. Download "I1_2p4.zip" from this link: https://drive.google.com/file/d/11yWSJ2D5YQ2NqwX6Pn4gxVaeUZH0Klum/view?usp=sharing.
 2. In the main repository, navigate to Data_Generation_matlab.
 3. Next, extract the "I1_2P4" .zip file and put it in the folder "Data_Generation_matlab/RayTracing Scenarios".
 4. Run the matlab function **"Data_Generation_matlab/GenerateData_Main.m"** to generate channel data and quantized signal data.
